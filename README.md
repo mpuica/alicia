@@ -1,6 +1,8 @@
 # ALICIA
 > Don't worry about a THING, mister. My name is ALICIA and you're in good hands with me. (Alicia Masters)
 
+![Alicia Masters](https://disturbedrobotics.com/projects/Alicia/images/Alicia_Masters.jpg)
+
 **ALICIA** is a wearable device that can leverage the power of AI at the Edge to transform visual input from the camera into audible description of the environment, providing navigation aid and details to visually impaired people.
 
 ## FUNCTIONALITY (expected for final project)
