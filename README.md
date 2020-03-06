@@ -7,6 +7,7 @@
 Once powered, **ALICIA** will start up in the background and will wait for a vocal command ("Alicia, describe view") to start to process the environment.
 Once an initial description is provided ("TV in front left, chair one in front, table in front, chair two in front, bed on right") the application will provide an update only if the scene changes, new objects detected or an object changes the position relative to the camera. There will be threshold between large (navigable) objects and smaller objects. For example, in the initial description you will hear the table, but probably not all the objects that are on the table.
 At this point, the user can ask more details about an object ("Alicia, more details on chair one") or ask for more detailed search to find small objects too ("Alicia, describe more"). Vocal commands can be added to pause the description and perform other tasks.
+
 A fail-back set of push-buttons will be added to provide non-vocal commands.
 
 ## FUNCTIONALITY (current version)
@@ -42,6 +43,8 @@ The command to generate the optimized model is:
 - improve wearability
 
 ## Disclaimers
-I chose to name the project  ALICIA after Alicia Masters (Alicia Masters is a fictional character appearing in comic books published by Marvel Comics.) 
+I chose to name the project  ALICIA after Alicia Masters.
+> Alicia Masters is a fictional character appearing in comic books published by Marvel Comics.
+> She is is a blind sculptor who is able to create incredibly lifelike representations of real people by touch and memory alone.
 https://en.wikipedia.org/wiki/Alicia_Masters
 All the rights over Alicia Masters name and character are owned by Marvel.
