@@ -20,6 +20,7 @@ A fail-back set of push-buttons will be added to provide non-vocal commands.
 
 ## FUNCTIONALITY (current version)
 For current version **ALICIA** have to be started manually (testing) and provide a vocal (also text) description of the objects found in the environment.
+>$python3 alicia.py
 
 ## HARDWARE
 **ALICIA** works on a **RaspberryPi 3 B+** (RSP) powered from a power bank and connecting to a **RaspberryPi camera** (a usb camera should work fine too, but the code should be adapted for it).
