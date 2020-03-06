@@ -48,5 +48,7 @@ The command to generate the optimized model is:
 I chose to name the project  ALICIA after Alicia Masters.
 > Alicia Masters is a fictional character appearing in comic books published by Marvel Comics.
 > She is is a blind sculptor who is able to create incredibly lifelike representations of real people by touch and memory alone.
+
 https://en.wikipedia.org/wiki/Alicia_Masters
+
 All the rights over Alicia Masters name and character are owned by Marvel.
