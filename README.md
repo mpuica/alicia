@@ -28,6 +28,10 @@ The Edge AI is processed in an attached **Intel NCS2** usb stick.
 
 Voice input and output is provided through an in-ear piece (both wired and BT headsets should work just fine)
 
+
+![Alicia - hardware](https://disturbedrobotics.com/projects/Alicia/images/alicia.jpg)
+
+
 ## SOFTWARE
 On RaspberryPi I run **Raspbian Buster** with **OpenVino toolkit** (2020.1) for Raspberry and Python3.
 
